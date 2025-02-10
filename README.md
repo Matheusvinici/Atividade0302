@@ -32,7 +32,7 @@ Clone este repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/Matheusvinici/Atividade03.git
+git clone https://github.com/Matheusvinici/Atividade0302
 Carregue o código no seu Raspberry Pi Pico usando o Thonny IDE ou outro editor compatível com o Raspberry Pi Pico.
 
 Conecte o seu Raspberry Pi Pico à porta USB do computador e abra o monitor serial.
