@@ -18,9 +18,9 @@
 #define LED_PIN 7 // Pino de controle da matriz WS2812
 #define NUM_LEDS 25 // Matriz 5x5
 
-#define LED_R_PIN 11
-#define LED_G_PIN 12
-#define LED_B_PIN 13
+#define LED_R_PIN 13
+#define LED_G_PIN 11
+#define LED_B_PIN 12
 
 #define BOTAO_A_PIN 5
 #define BOTAO_B_PIN 6
